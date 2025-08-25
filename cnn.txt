@@ -1,0 +1,14 @@
+structure of nn:
+    input layer(accepts input data features)
+    hidden layer(extract computations to extract patterns)
+    output layer(produces predictions and classifications)
+
+components:
+    neurons
+    weights and biases
+    activation functions
+
+how it works:
+    forward propergation
+    loss calculation
+    backprpergation
